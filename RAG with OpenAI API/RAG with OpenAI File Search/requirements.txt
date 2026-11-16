@@ -1,0 +1,4 @@
+# Minimal deps for the notebook
+# Colab provides Jupyter & google-colab; you only need these two packages.
+openai==2.43.0
+ipython==7.34.0

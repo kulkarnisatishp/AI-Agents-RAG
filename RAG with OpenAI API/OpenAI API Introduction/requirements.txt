@@ -1,0 +1,5 @@
+# Minimal deps for the reasoning-models email notebook
+# - OpenAI SDK for the Responses API
+# - IPython so Markdown/display work outside Colab
+openai==2.43.0
+ipython>=8.10.0
