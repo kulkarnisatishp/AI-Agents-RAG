@@ -1,0 +1,446 @@
+{
+  "doc-52c8afbec9e3e7f946a74539d5a1c008": {
+    "relation_pairs": [
+      [
+        "Alpheus",
+        "Artemis"
+      ],
+      [
+        "Alpheus",
+        "Artemis's Nymphs"
+      ],
+      [
+        "Aphrodite",
+        "Ares"
+      ],
+      [
+        "Aphrodite",
+        "Golden Apple"
+      ],
+      [
+        "Aphrodite",
+        "Hephaestus"
+      ],
+      [
+        "Aphrodite",
+        "Paris"
+      ],
+      [
+        "Aphrodite",
+        "Trojan War"
+      ],
+      [
+        "Aphrodite",
+        "Trojans"
+      ],
+      [
+        "Apollo",
+        "Apollo's Cattle"
+      ],
+      [
+        "Apollo",
+        "Artemis"
+      ],
+      [
+        "Apollo",
+        "Hermes"
+      ],
+      [
+        "Apollo",
+        "Hestia"
+      ],
+      [
+        "Apollo",
+        "Lyre"
+      ],
+      [
+        "Apollo's Cattle",
+        "Hermes"
+      ],
+      [
+        "Apollo's Cattle",
+        "Lyre"
+      ],
+      [
+        "Ares",
+        "Diomedes"
+      ],
+      [
+        "Ares",
+        "Greeks"
+      ],
+      [
+        "Ares",
+        "Trojan War"
+      ],
+      [
+        "Ares",
+        "Trojans"
+      ],
+      [
+        "Ares",
+        "Zeus"
+      ],
+      [
+        "Artemis",
+        "Artemis's Nymphs"
+      ],
+      [
+        "Athena",
+        "Athens"
+      ],
+      [
+        "Athena",
+        "Golden Apple"
+      ],
+      [
+        "Athena",
+        "Olive Tree"
+      ],
+      [
+        "Athena",
+        "Paris"
+      ],
+      [
+        "Athena",
+        "Poseidon"
+      ],
+      [
+        "Athena",
+        "Poseidon's River"
+      ],
+      [
+        "Athena",
+        "Zeus"
+      ],
+      [
+        "Athens",
+        "Greece"
+      ],
+      [
+        "Athens",
+        "Olive Tree"
+      ],
+      [
+        "Athens",
+        "Poseidon"
+      ],
+      [
+        "Athens",
+        "Poseidon's River"
+      ],
+      [
+        "Baucis",
+        "Baucis and Philemon's Hut"
+      ],
+      [
+        "Baucis",
+        "Hermes"
+      ],
+      [
+        "Baucis",
+        "Oak and Linden Trees"
+      ],
+      [
+        "Baucis",
+        "Philemon"
+      ],
+      [
+        "Baucis",
+        "Temple"
+      ],
+      [
+        "Baucis",
+        "Wine Jug"
+      ],
+      [
+        "Baucis",
+        "Zeus"
+      ],
+      [
+        "Baucis and Philemon's Hut",
+        "Philemon"
+      ],
+      [
+        "Baucis and Philemon's Hut",
+        "Temple"
+      ],
+      [
+        "Baucis and Philemon's Hut",
+        "Zeus"
+      ],
+      [
+        "Baucis and Philemon's Hut",
+        "Zeus's Flood"
+      ],
+      [
+        "Curse of Insatiable Hunger",
+        "Demeter"
+      ],
+      [
+        "Curse of Insatiable Hunger",
+        "Erysichthon"
+      ],
+      [
+        "Demeter",
+        "Demeter's Oak Tree"
+      ],
+      [
+        "Demeter",
+        "Erysichthon"
+      ],
+      [
+        "Demeter",
+        "Erysichthon's Slaves"
+      ],
+      [
+        "Demeter",
+        "Slaves"
+      ],
+      [
+        "Demeter's Oak Tree",
+        "Erysichthon"
+      ],
+      [
+        "Demeter's Oak Tree",
+        "Erysichthon's Slaves"
+      ],
+      [
+        "Demeter's Oak Tree",
+        "Thessaly"
+      ],
+      [
+        "Diomedes",
+        "Greeks"
+      ],
+      [
+        "Dionysus",
+        "Hephaestus"
+      ],
+      [
+        "Dionysus",
+        "Hestia"
+      ],
+      [
+        "Dionysus",
+        "Mount Olympus"
+      ],
+      [
+        "Dionysus",
+        "Zeus"
+      ],
+      [
+        "Eris",
+        "Golden Apple"
+      ],
+      [
+        "Erysichthon",
+        "Erysichthon's Slaves"
+      ],
+      [
+        "Four Black Horses",
+        "Hades's Chariot"
+      ],
+      [
+        "Golden Apple",
+        "Hera"
+      ],
+      [
+        "Golden Throne",
+        "Hephaestus"
+      ],
+      [
+        "Golden Throne",
+        "Hera"
+      ],
+      [
+        "Golden Throne",
+        "Unbreakable Chains"
+      ],
+      [
+        "Greeks",
+        "Trojan War"
+      ],
+      [
+        "Hades",
+        "Hades's Chariot"
+      ],
+      [
+        "Hades",
+        "Orpheus"
+      ],
+      [
+        "Hades",
+        "Poseidon"
+      ],
+      [
+        "Hades",
+        "Underworld"
+      ],
+      [
+        "Hades",
+        "Zeus"
+      ],
+      [
+        "Helen",
+        "King of Sparta"
+      ],
+      [
+        "Helen",
+        "Paris"
+      ],
+      [
+        "Helen",
+        "Troy"
+      ],
+      [
+        "Hephaestus",
+        "Hera"
+      ],
+      [
+        "Hephaestus",
+        "Mount Olympus"
+      ],
+      [
+        "Hera",
+        "Paris"
+      ],
+      [
+        "Hera",
+        "Unbreakable Chains"
+      ],
+      [
+        "Hermes",
+        "Lyre"
+      ],
+      [
+        "Hermes",
+        "Philemon"
+      ],
+      [
+        "Hermes",
+        "Winged Hat and Sandals"
+      ],
+      [
+        "Hermes",
+        "Zeus"
+      ],
+      [
+        "Hestia",
+        "Key to Olympus"
+      ],
+      [
+        "Hestia",
+        "Mount Olympus"
+      ],
+      [
+        "Hestia",
+        "Poseidon"
+      ],
+      [
+        "Hestia",
+        "Zeus"
+      ],
+      [
+        "Key to Olympus",
+        "Mount Olympus"
+      ],
+      [
+        "Key to Olympus",
+        "Zeus"
+      ],
+      [
+        "King of Sparta",
+        "Sparta"
+      ],
+      [
+        "King of Sparta",
+        "Trojan War"
+      ],
+      [
+        "Lyre Strings",
+        "Tortoise Shell"
+      ],
+      [
+        "Oak and Linden Trees",
+        "Philemon"
+      ],
+      [
+        "Olive Oil",
+        "Olives"
+      ],
+      [
+        "Olive Tree",
+        "Olive Wood"
+      ],
+      [
+        "Olive Tree",
+        "Olives"
+      ],
+      [
+        "Orpheus",
+        "Orpheus's Wife"
+      ],
+      [
+        "Orpheus",
+        "Underworld"
+      ],
+      [
+        "Orpheus's Wife",
+        "Underworld"
+      ],
+      [
+        "Paris",
+        "Troy"
+      ],
+      [
+        "Philemon",
+        "Temple"
+      ],
+      [
+        "Philemon",
+        "Wine Jug"
+      ],
+      [
+        "Philemon",
+        "Zeus"
+      ],
+      [
+        "Poseidon",
+        "Poseidon's Flood"
+      ],
+      [
+        "Poseidon",
+        "Poseidon's River"
+      ],
+      [
+        "Poseidon",
+        "Poseidon's Trident"
+      ],
+      [
+        "Poseidon",
+        "Zeus"
+      ],
+      [
+        "Poseidon's River",
+        "Poseidon's Trident"
+      ],
+      [
+        "Trojan War",
+        "Trojans"
+      ],
+      [
+        "Trojan War",
+        "Troy"
+      ],
+      [
+        "Zeus",
+        "Zeus's Flood"
+      ]
+    ],
+    "count": 109,
+    "create_time": 1788940637,
+    "update_time": 1788940637,
+    "_id": "doc-52c8afbec9e3e7f946a74539d5a1c008"
+  }
+}

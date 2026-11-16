@@ -1,0 +1,16 @@
+# Core
+lightrag-hku==1.4.9.7
+openai==1.109.1
+tiktoken==0.12.0
+nest-asyncio==1.6.0
+
+# PDF I/O
+PyPDF2==3.0.1
+
+# Graph + viz
+networkx==3.5
+pyvis==0.3.2
+matplotlib==3.10.0  # imported; safe to pin
+
+# (Optional) underlying vector DB used by LightRAG
+nano-vectordb==0.0.4.3

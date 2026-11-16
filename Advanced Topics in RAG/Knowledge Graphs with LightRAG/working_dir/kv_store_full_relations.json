@@ -1,0 +1,102 @@
+{
+  "doc-52c8afbec9e3e7f946a74539d5a1c008": {
+    "relation_pairs": [
+      [
+        "Hades",
+        "Underworld"
+      ],
+      [
+        "Aphrodite",
+        "Ares"
+      ],
+      [
+        "Aphrodite",
+        "Hephaestus"
+      ],
+      [
+        "Apollo",
+        "Hermes"
+      ],
+      [
+        "Eris",
+        "Golden Apple"
+      ],
+      [
+        "Hermes",
+        "Zeus"
+      ],
+      [
+        "Baucis",
+        "Zeus"
+      ],
+      [
+        "Alpheus",
+        "Artemis"
+      ],
+      [
+        "Baucis",
+        "Philemon"
+      ],
+      [
+        "Ares",
+        "Athena"
+      ],
+      [
+        "Athena",
+        "The City of Athens"
+      ],
+      [
+        "Athena",
+        "Poseidon"
+      ],
+      [
+        "Demeter",
+        "Erysichthon"
+      ],
+      [
+        "Poseidon",
+        "The City of Athens"
+      ],
+      [
+        "Aphrodite",
+        "Eris"
+      ],
+      [
+        "Demeter",
+        "Slaves"
+      ],
+      [
+        "Erysichthon",
+        "The Curse"
+      ],
+      [
+        "Helen",
+        "Paris"
+      ],
+      [
+        "Aphrodite",
+        "Paris"
+      ],
+      [
+        "Hestia",
+        "Zeus"
+      ],
+      [
+        "Hephaestus",
+        "Hera"
+      ],
+      [
+        "Hades",
+        "Orpheus"
+      ],
+      [
+        "Dionysus",
+        "Hephaestus"
+      ]
+    ],
+    "count": 23,
+    "create_time": 1760610817,
+    "update_time": 1760610817,
+    "_id": "doc-52c8afbec9e3e7f946a74539d5a1c008"
+  }
+}

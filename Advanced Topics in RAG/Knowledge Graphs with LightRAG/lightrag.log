@@ -1,0 +1,59 @@
+2025-10-10 11:14:25,415 - lightrag - INFO - Naive query: 3 chunks (chunk_top_k:20 cosine:0.2)
+2025-10-10 11:14:25,431 - lightrag - INFO - Final context: 3 chunks
+2025-10-10 11:14:25,433 - lightrag - INFO -  == LLM cache == Query cache hit, using cached response as query result
+2025-10-10 11:14:39,158 - lightrag - DEBUG - [aquery_llm] Query param: QueryParam(mode='naive', only_need_context=False, only_need_prompt=False, response_type='Multiple Paragraphs', stream=False, top_k=40, chunk_top_k=20, max_entity_tokens=6000, max_relation_tokens=8000, max_total_tokens=30000, hl_keywords=[], ll_keywords=[], conversation_history=[], history_turns=0, model_func=None, user_prompt=None, enable_rerank=False, include_references=False)
+2025-10-10 11:14:39,502 - lightrag - INFO - Naive query: 3 chunks (chunk_top_k:20 cosine:0.2)
+2025-10-10 11:14:39,505 - lightrag - DEBUG - Naive query token allocation - Total: 30000, SysPrompt: 554, Query: 3, Buffer: 200, Available for chunks: 29243
+2025-10-10 11:14:39,507 - lightrag - DEBUG - Kept chunk_top-k: 3 chunks (deduplicated original: 3)
+2025-10-10 11:14:39,513 - lightrag - DEBUG - Token truncation: 3 chunks from 3 (chunk available tokens: 29243, source: vector)
+2025-10-10 11:14:39,515 - lightrag - INFO - Final context: 3 chunks
+2025-10-10 11:14:39,516 - lightrag - DEBUG - [convert_to_user_format] Formatted 3/3 chunks
+2025-10-10 11:14:39,519 - lightrag - DEBUG - Flattened cache hit(key:naive:query:6ba85aaf54e79dcca1134efda8ee6839)
+2025-10-10 11:14:39,522 - lightrag - INFO -  == LLM cache == Query cache hit, using cached response as query result
+2025-10-16 10:48:29,540 - lightrag - INFO - Naive query: 3 chunks (chunk_top_k:20 cosine:0.2)
+2025-10-16 10:48:30,356 - lightrag - INFO - Final context: 3 chunks
+2025-10-16 10:48:30,357 - lightrag - INFO -  == LLM cache == Query cache hit, using cached response as query result
+2026-09-09 08:30:53,634 - lightrag - INFO -  == LLM cache == saving: global:keywords:8f24e1fe2f7c774894da10933a0d0dac
+2026-09-09 08:30:54,563 - lightrag - INFO - Query edges: Identity of Aphrodite (top_k:40, cosine:0.2)
+2026-09-09 08:30:54,573 - lightrag - INFO - Global query: 31 entites, 40 relations
+2026-09-09 08:30:54,574 - lightrag - INFO - Raw search results: 31 entities, 40 relations, 0 vector chunks
+2026-09-09 08:30:54,588 - lightrag - INFO - After truncation: 31 entities, 40 relations
+2026-09-09 08:30:54,593 - lightrag - INFO - Selecting 2 from 2 entity-related chunks by vector similarity
+2026-09-09 08:30:54,597 - lightrag - INFO - Find no additional relations-related chunks from 40 relations
+2026-09-09 08:30:54,600 - lightrag - INFO - Round-robin merged chunks: 2 -> 2 (deduplicated 0)
+2026-09-09 08:30:54,617 - lightrag - INFO - Final context: 31 entities, 40 relations, 2 chunks
+2026-09-09 08:30:54,619 - lightrag - INFO - Final chunks S+F/O: E18/1 E22/2
+2026-09-09 08:30:59,721 - lightrag - INFO -  == LLM cache == saving: global:query:776bda8915f170c6b5857e5c16177724
+2026-09-09 08:31:24,153 - lightrag - DEBUG - [aquery_llm] Query param: QueryParam(mode='global', only_need_context=False, only_need_prompt=False, response_type='Multiple Paragraphs', stream=False, top_k=40, chunk_top_k=20, max_entity_tokens=6000, max_relation_tokens=8000, max_total_tokens=30000, hl_keywords=[], ll_keywords=[], conversation_history=[], user_prompt=None, enable_rerank=False, include_references=False, disable_user_prompt_prefix=False)
+2026-09-09 08:31:24,167 - lightrag - DEBUG - Flattened cache hit(key:global:keywords:8f24e1fe2f7c774894da10933a0d0dac)
+2026-09-09 08:31:24,174 - lightrag - DEBUG - High-level keywords: ['Identity of Aphrodite']
+2026-09-09 08:31:24,180 - lightrag - DEBUG - Low-level  keywords: ['Aphrodite']
+2026-09-09 08:31:24,538 - lightrag - DEBUG - Pre-computed 2 embeddings in single batch (purposes: query, hl)
+2026-09-09 08:31:24,539 - lightrag - INFO - Query edges: Identity of Aphrodite (top_k:40, cosine:0.2)
+2026-09-09 08:31:24,548 - lightrag - INFO - Global query: 31 entites, 40 relations
+2026-09-09 08:31:24,550 - lightrag - INFO - Raw search results: 31 entities, 40 relations, 0 vector chunks
+2026-09-09 08:31:24,553 - lightrag - DEBUG - Before truncation: 31 entities, 40 relations
+2026-09-09 08:31:24,562 - lightrag - INFO - After truncation: 31 entities, 40 relations
+2026-09-09 08:31:24,565 - lightrag - DEBUG - Finding text chunks from 31 entities
+2026-09-09 08:31:24,567 - lightrag - DEBUG - Vector similarity chunk selection: num_of_chunks=77, entity_info_count=31
+2026-09-09 08:31:24,569 - lightrag - DEBUG - Vector similarity chunk selection: 2 unique chunk IDs collected
+2026-09-09 08:31:24,571 - lightrag - DEBUG - Using pre-computed query embedding for vector similarity chunk selection
+2026-09-09 08:31:24,574 - lightrag - DEBUG - Vector similarity chunk selection: 2 chunk vectors Retrieved
+2026-09-09 08:31:24,576 - lightrag - DEBUG - Vector similarity chunk selection: 2 chunks from 2 candidates
+2026-09-09 08:31:24,577 - lightrag - INFO - Selecting 2 from 2 entity-related chunks by vector similarity
+2026-09-09 08:31:24,579 - lightrag - DEBUG - Finding text chunks from 40 relations
+2026-09-09 08:31:24,581 - lightrag - INFO - Find no additional relations-related chunks from 40 relations
+2026-09-09 08:31:24,583 - lightrag - INFO - Round-robin merged chunks: 2 -> 2 (deduplicated 0)
+2026-09-09 08:31:24,591 - lightrag - DEBUG - Token allocation - Total: 30000, SysPrompt: 560, Query: 5, KG: 3428, Buffer: 200, Available for chunks: 25807
+2026-09-09 08:31:24,593 - lightrag - DEBUG - Kept chunk_top-k: 2 chunks (deduplicated original: 2)
+2026-09-09 08:31:24,601 - lightrag - DEBUG - Token truncation: 2 chunks from 2 (chunk available tokens: 25807, source: global)
+2026-09-09 08:31:24,603 - lightrag - INFO - Final context: 31 entities, 40 relations, 2 chunks
+2026-09-09 08:31:24,604 - lightrag - INFO - Final chunks S+F/O: E18/1 E22/2
+2026-09-09 08:31:24,605 - lightrag - DEBUG - [_build_context_str] Converting to user format: 31 entities, 40 relations, 2 chunks
+2026-09-09 08:31:24,606 - lightrag - DEBUG - [convert_to_user_format] Formatted 2/2 chunks
+2026-09-09 08:31:24,608 - lightrag - DEBUG - [_build_context_str] Final data after conversion: 31 entities, 40 relationships, 2 chunks
+2026-09-09 08:31:24,608 - lightrag - DEBUG - [_build_query_context] Context length: 23187
+2026-09-09 08:31:24,610 - lightrag - DEBUG - [_build_query_context] Raw data entities: 31, relationships: 40, chunks: 2
+2026-09-09 08:31:24,624 - lightrag - DEBUG - [kg_query] Sending to LLM: 6,495 tokens (Query: 5, System: 6490)
+2026-09-09 08:31:24,626 - lightrag - DEBUG - Flattened cache hit(key:global:query:776bda8915f170c6b5857e5c16177724)
+2026-09-09 08:31:24,627 - lightrag - INFO -  == LLM cache == Query cache hit, using cached response as query result

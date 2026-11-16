@@ -1,0 +1,1681 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d13" for="edge" attr.name="truncate" attr.type="string"/>
+<key id="d12" for="edge" attr.name="created_at" attr.type="long"/>
+<key id="d11" for="edge" attr.name="file_path" attr.type="string"/>
+<key id="d10" for="edge" attr.name="source_id" attr.type="string"/>
+<key id="d9" for="edge" attr.name="keywords" attr.type="string"/>
+<key id="d8" for="edge" attr.name="description" attr.type="string"/>
+<key id="d7" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d6" for="node" attr.name="truncate" attr.type="string"/>
+<key id="d5" for="node" attr.name="created_at" attr.type="long"/>
+<key id="d4" for="node" attr.name="file_path" attr.type="string"/>
+<key id="d3" for="node" attr.name="source_id" attr.type="string"/>
+<key id="d2" for="node" attr.name="description" attr.type="string"/>
+<key id="d1" for="node" attr.name="entity_type" attr.type="string"/>
+<key id="d0" for="node" attr.name="entity_id" attr.type="string"/>
+<graph edgedefault="undirected"><node id="Zeus">
+  <data key="d0">Zeus</data>
+  <data key="d1">person</data>
+  <data key="d2">Zeus was the god of the sky, ruler of the gods, and father of Hermes, Athena, and Ares. Zeus punished inhospitality and rewarded Baucis and Philemon's kindness.&lt;SEP&gt;Brother of Hades and Poseidon who assigned Hestia responsibility for the gods' necessities and made Hestia goddess of the home and family.</data>
+  <data key="d3">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-000&lt;SEP&gt;doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-001</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788940637</data>
+  <data key="d6"></data>
+</node>
+<node id="Hermes">
+  <data key="d0">Hermes</data>
+  <data key="d1">person</data>
+  <data key="d2">Hermes was Zeus's mischievous son, inventor of the lyre, and a messenger between gods and mortals. Hermes stole Apollo's cattle and exchanged the lyre for permission to keep the cattle.</data>
+  <data key="d3">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788940637</data>
+  <data key="d6"></data>
+</node>
+<node id="Baucis">
+  <data key="d0">Baucis</data>
+  <data key="d1">person</data>
+  <data key="d2">Baucis was a poor, elderly woman married to Philemon. Baucis welcomed Zeus and Hermes and later lived as a priestess.</data>
+  <data key="d3">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788940637</data>
+  <data key="d6"></data>
+</node>
+<node id="Philemon">
+  <data key="d0">Philemon</data>
+  <data key="d1">person</data>
+  <data key="d2">Philemon was Baucis's poor, elderly husband. Philemon welcomed Zeus and Hermes and later lived as a priest.</data>
+  <data key="d3">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788940637</data>
+  <data key="d6"></data>
+</node>
+<node id="Baucis and Philemon's Hut">
+  <data key="d0">Baucis and Philemon's Hut</data>
+  <data key="d1">location</data>
+  <data key="d2">Baucis and Philemon's hut sheltered Zeus and Hermes, survived a destructive flood, and was transformed into a temple.</data>
+  <data key="d3">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788940637</data>
+  <data key="d6"></data>
+</node>
+<node id="Temple">
+  <data key="d0">Temple</data>
+  <data key="d1">location</data>
+  <data key="d2">The temple was transformed from Baucis and Philemon's hut by Zeus and became the couple's lifelong home as priestess and priest.</data>
+  <data key="d3">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788940637</data>
+  <data key="d6"></data>
+</node>
+<node id="Wine Jug">
+  <data key="d0">Wine Jug</data>
+  <data key="d1">artifact</data>
+  <data key="d2">The wine jug was Baucis and Philemon's only jug of wine, offered to Zeus and Hermes and later discovered refilled.</data>
+  <data key="d3">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788940637</data>
+  <data key="d6"></data>
+</node>
+<node id="Zeus's Flood">
+  <data key="d0">Zeus's Flood</data>
+  <data key="d1">event</data>
+  <data key="d2">Zeus's flood punished people who refused food and shelter to Zeus and Hermes, destroying every home in the valley except Baucis and Philemon's hut.</data>
+  <data key="d3">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788940637</data>
+  <data key="d6"></data>
+</node>
+<node id="Oak and Linden Trees">
+  <data key="d0">Oak and Linden Trees</data>
+  <data key="d1">creature</data>
+  <data key="d2">The oak and linden trees were the forms Baucis and Philemon assumed after death, with entwined branches.</data>
+  <data key="d3">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788940637</data>
+  <data key="d6"></data>
+</node>
+<node id="Athena">
+  <data key="d0">Athena</data>
+  <data key="d1">person</data>
+  <data key="d2">Athena was Zeus's strong and wise daughter, born wearing armour and carrying a shield and sword. Athena gave an olive tree to Athens and became the city's protector.&lt;SEP&gt;Goddess who offered to make Paris a courageous and successful soldier in exchange for favorable judgment.</data>
+  <data key="d3">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-000&lt;SEP&gt;doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-001</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788940637</data>
+  <data key="d6"></data>
+</node>
+<node id="Poseidon">
+  <data key="d0">Poseidon</data>
+  <data key="d1">person</data>
+  <data key="d2">Poseidon was the god of the seas and Athena's rival. Poseidon drove a golden chariot, carried a trident, and offered a saltwater river to the city later named Athens.&lt;SEP&gt;Brother of Hades and Zeus who wished to marry Hestia.</data>
+  <data key="d3">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-000&lt;SEP&gt;doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-001</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788940637</data>
+  <data key="d6"></data>
+</node>
+<node id="Athens">
+  <data key="d0">Athens</data>
+  <data key="d1">location</data>
+  <data key="d2">Athens was the city whose citizens chose Athena as protector and named the city after Athena. Athens became strong and prosperous and is the capital of Greece.</data>
+  <data key="d3">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788940637</data>
+  <data key="d6"></data>
+</node>
+<node id="Greece">
+  <data key="d0">Greece</data>
+  <data key="d1">location</data>
+  <data key="d2">Greece is the country whose capital city is Athens.</data>
+  <data key="d3">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788940637</data>
+  <data key="d6"></data>
+</node>
+<node id="Poseidon's Trident">
+  <data key="d0">Poseidon's Trident</data>
+  <data key="d1">artifact</data>
+  <data key="d2">Poseidon's trident was used to strike the ground and release water that became a river.</data>
+  <data key="d3">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788940637</data>
+  <data key="d6"></data>
+</node>
+<node id="Poseidon's River">
+  <data key="d0">Poseidon's River</data>
+  <data key="d1">naturalobject</data>
+  <data key="d2">Poseidon's river was a saltwater river offered to the citizens of the city later named Athens. The river flowed to the sea.</data>
+  <data key="d3">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788940637</data>
+  <data key="d6"></data>
+</node>
+<node id="Olive Tree">
+  <data key="d0">Olive Tree</data>
+  <data key="d1">creature</data>
+  <data key="d2">The olive tree was Athena's gift to the citizens of Athens, providing wood, edible olives, and olives from which cooking oil could be obtained.</data>
+  <data key="d3">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788940637</data>
+  <data key="d6"></data>
+</node>
+<node id="Olive Wood">
+  <data key="d0">Olive Wood</data>
+  <data key="d1">naturalobject</data>
+  <data key="d2">Olive wood from Athena's gift could be used for building and heating.</data>
+  <data key="d3">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788940637</data>
+  <data key="d6"></data>
+</node>
+<node id="Olives">
+  <data key="d0">Olives</data>
+  <data key="d1">naturalobject</data>
+  <data key="d2">Olives growing on Athena's olive tree could be eaten and provided oil for cooking.</data>
+  <data key="d3">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788940637</data>
+  <data key="d6"></data>
+</node>
+<node id="Olive Oil">
+  <data key="d0">Olive Oil</data>
+  <data key="d1">naturalobject</data>
+  <data key="d2">Olive oil obtained from the olives could be used for cooking.</data>
+  <data key="d3">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788940637</data>
+  <data key="d6"></data>
+</node>
+<node id="Poseidon's Flood">
+  <data key="d0">Poseidon's Flood</data>
+  <data key="d1">event</data>
+  <data key="d2">Poseidon's flood was caused by Poseidon after the citizens chose Athena as the city's protector.</data>
+  <data key="d3">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788940637</data>
+  <data key="d6"></data>
+</node>
+<node id="Apollo">
+  <data key="d0">Apollo</data>
+  <data key="d1">person</data>
+  <data key="d2">Apollo was a god whose cattle were stolen by Hermes. Enchanted by Hermes's music, Apollo accepted the lyre in exchange for the cattle and subsequently carried the instrument.&lt;SEP&gt;Artemis's twin brother who wished to marry Hestia.</data>
+  <data key="d3">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-000&lt;SEP&gt;doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-001</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788940637</data>
+  <data key="d6"></data>
+</node>
+<node id="Lyre">
+  <data key="d0">Lyre</data>
+  <data key="d1">artifact</data>
+  <data key="d2">The lyre was the first musical instrument, created by Hermes by tying strings across a tortoise shell. Hermes later gave the lyre to Apollo.</data>
+  <data key="d3">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788940637</data>
+  <data key="d6"></data>
+</node>
+<node id="Apollo's Cattle">
+  <data key="d0">Apollo's Cattle</data>
+  <data key="d1">creature</data>
+  <data key="d2">Apollo's cattle were a herd stolen and hidden by Hermes. Apollo later allowed Hermes to keep the cattle in exchange for the lyre.</data>
+  <data key="d3">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788940637</data>
+  <data key="d6"></data>
+</node>
+<node id="Winged Hat and Sandals">
+  <data key="d0">Winged Hat and Sandals</data>
+  <data key="d1">artifact</data>
+  <data key="d2">Hermes's winged hat and sandals enabled quick travel and helped Hermes deliver messages between gods and mortals.</data>
+  <data key="d3">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788940637</data>
+  <data key="d6"></data>
+</node>
+<node id="Ares">
+  <data key="d0">Ares</data>
+  <data key="d1">person</data>
+  <data key="d2">Ares was the god of war and Zeus's son. Ares supported the Trojans after promising to help the Greeks and was wounded by Diomedes.</data>
+  <data key="d3">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788940637</data>
+  <data key="d6"></data>
+</node>
+<node id="Trojan War">
+  <data key="d0">Trojan War</data>
+  <data key="d1">event</data>
+  <data key="d2">The Trojan War was the conflict during which Ares promised to help the Greeks but instead supported the Trojans at Aphrodite's urging.&lt;SEP&gt;Ten-year war that followed Helen and Paris's flight to Troy and the king of Sparta's declaration of war.</data>
+  <data key="d3">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-000&lt;SEP&gt;doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-001</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788940637</data>
+  <data key="d6"></data>
+</node>
+<node id="Greeks">
+  <data key="d0">Greeks</data>
+  <data key="d1">organization</data>
+  <data key="d2">The Greeks were the side Ares initially promised to support during the Trojan War.</data>
+  <data key="d3">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788940637</data>
+  <data key="d6"></data>
+</node>
+<node id="Trojans">
+  <data key="d0">Trojans</data>
+  <data key="d1">organization</data>
+  <data key="d2">The Trojans were the side Ares supported during the Trojan War after persuasion by Aphrodite.</data>
+  <data key="d3">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788940637</data>
+  <data key="d6"></data>
+</node>
+<node id="Aphrodite">
+  <data key="d0">Aphrodite</data>
+  <data key="d1">person</data>
+  <data key="d2">Aphrodite was the beautiful goddess of love. Aphrodite persuaded Ares to support the Trojans and once unintentionally started a war.&lt;SEP&gt;Beautiful goddess of love who won Paris's judgment, unintentionally helped cause the Trojan War, and became Hephaestus's wife.</data>
+  <data key="d3">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-000&lt;SEP&gt;doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-001</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788940637</data>
+  <data key="d6"></data>
+</node>
+<node id="Diomedes">
+  <data key="d0">Diomedes</data>
+  <data key="d1">person</data>
+  <data key="d2">Diomedes was a Greek mortal challenged by Ares who inflicted a minor wound on Ares.</data>
+  <data key="d3">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788940637</data>
+  <data key="d6"></data>
+</node>
+<node id="Eris">
+  <data key="d0">Eris</data>
+  <data key="d1">person</data>
+  <data key="d2">Eris was a goddess who enjoyed causing trouble and made a golden apple bearing the words “For the fairest.”&lt;SEP&gt;Goddess who enjoyed causing trouble and created a golden apple to provoke competition among Hera, Aphrodite, and Athena.</data>
+  <data key="d3">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-000&lt;SEP&gt;doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-001</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788940637</data>
+  <data key="d6"></data>
+</node>
+<node id="Golden Apple">
+  <data key="d0">Golden Apple</data>
+  <data key="d1">artifact</data>
+  <data key="d2">The golden apple was made by Eris, inscribed “For the fairest,” and left where Hera, Aphrodite, and Athena would find the apple.&lt;SEP&gt;Apple created by Eris, inscribed with the words “For the fairest,” and left for Hera, Aphrodite, and Athena.</data>
+  <data key="d3">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-000&lt;SEP&gt;doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-001</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788940637</data>
+  <data key="d6"></data>
+</node>
+<node id="Hera">
+  <data key="d0">Hera</data>
+  <data key="d1">person</data>
+  <data key="d2">Hera was one of the goddesses Eris intended to find the golden apple.&lt;SEP&gt;Goddess who offered Paris power and was trapped by a golden throne created by her son Hephaestus.</data>
+  <data key="d3">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-000&lt;SEP&gt;doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-001</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788940637</data>
+  <data key="d6"></data>
+</node>
+<node id="Hermes's Mother">
+  <data key="d0">Hermes's Mother</data>
+  <data key="d1">person</data>
+  <data key="d2">Hermes's mother became sleepy while listening to Hermes play the lyre. Hermes left to explore while Hermes's mother slept and later returned to Hermes's mother's arms.</data>
+  <data key="d3">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788940637</data>
+  <data key="d6"></data>
+</node>
+<node id="Hermes's Birth Cave">
+  <data key="d0">Hermes's Birth Cave</data>
+  <data key="d1">location</data>
+  <data key="d2">Hermes's birth cave was the birthplace of Hermes and the place Hermes returned to after hiding Apollo's stolen cattle.</data>
+  <data key="d3">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788940637</data>
+  <data key="d6"></data>
+</node>
+<node id="Tortoise Shell">
+  <data key="d0">Tortoise Shell</data>
+  <data key="d1">naturalobject</data>
+  <data key="d2">The tortoise shell was found by Hermes and used as the body of the first lyre.</data>
+  <data key="d3">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788940637</data>
+  <data key="d6"></data>
+</node>
+<node id="Lyre Strings">
+  <data key="d0">Lyre Strings</data>
+  <data key="d1">artifact</data>
+  <data key="d2">The lyre strings were tied across a tortoise shell by Hermes and plucked to make the first music.</data>
+  <data key="d3">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788940637</data>
+  <data key="d6"></data>
+</node>
+<node id="Poseidon's Golden Chariot">
+  <data key="d0">Poseidon's Golden Chariot</data>
+  <data key="d1">artifact</data>
+  <data key="d2">Poseidon's golden chariot was the vehicle driven by Poseidon.</data>
+  <data key="d3">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788940637</data>
+  <data key="d6"></data>
+</node>
+<node id="Athena's Spear">
+  <data key="d0">Athena's Spear</data>
+  <data key="d1">artifact</data>
+  <data key="d2">Athena's spear was used by Athena to strike the ground, causing an olive tree to grow as a gift for the city's citizens.</data>
+  <data key="d3">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788940637</data>
+  <data key="d6"></data>
+</node>
+<node id="Paris">
+  <data key="d0">Paris</data>
+  <data key="d1">person</data>
+  <data key="d2">Mortal chosen to judge the fairest goddess who selected Aphrodite and later ran away with Helen to Troy.</data>
+  <data key="d3">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-001</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788940637</data>
+  <data key="d6"></data>
+</node>
+<node id="Helen">
+  <data key="d0">Helen</data>
+  <data key="d1">person</data>
+  <data key="d2">Woman described as the most beautiful in the world, married to the king of Sparta before running away with Paris.</data>
+  <data key="d3">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-001</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788940637</data>
+  <data key="d6"></data>
+</node>
+<node id="King of Sparta">
+  <data key="d0">King of Sparta</data>
+  <data key="d1">person</data>
+  <data key="d2">Helen's husband who sent soldiers to declare war on Troy after Helen ran away with Paris.</data>
+  <data key="d3">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-001</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788940637</data>
+  <data key="d6"></data>
+</node>
+<node id="Hades">
+  <data key="d0">Hades</data>
+  <data key="d1">person</data>
+  <data key="d2">Brother of Zeus and Poseidon who ruled the Underworld, kept the dead there, and conditionally permitted Orpheus to retrieve Orpheus's wife.</data>
+  <data key="d3">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-001</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788940637</data>
+  <data key="d6"></data>
+</node>
+<node id="Orpheus">
+  <data key="d0">Orpheus</data>
+  <data key="d1">person</data>
+  <data key="d2">Wonderful singer who entered the Underworld to recover a deceased wife but violated Hades's condition by looking back during departure.</data>
+  <data key="d3">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-001</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788940637</data>
+  <data key="d6"></data>
+</node>
+<node id="Orpheus's Wife">
+  <data key="d0">Orpheus's Wife</data>
+  <data key="d1">person</data>
+  <data key="d2">Deceased wife of Orpheus who had to remain in the Underworld forever after Orpheus looked back during departure.</data>
+  <data key="d3">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-001</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788940637</data>
+  <data key="d6"></data>
+</node>
+<node id="Hephaestus">
+  <data key="d0">Hephaestus</data>
+  <data key="d1">person</data>
+  <data key="d2">Hera's son who created a trapping golden throne for revenge, later freed Hera, and received Aphrodite as a wife.</data>
+  <data key="d3">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-001</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788940637</data>
+  <data key="d6"></data>
+</node>
+<node id="Dionysus">
+  <data key="d0">Dionysus</data>
+  <data key="d1">person</data>
+  <data key="d2">God of wine described as Zeus's half-son who was asked to intoxicate Hephaestus and later received Hestia's throne.</data>
+  <data key="d3">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-001</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788940637</data>
+  <data key="d6"></data>
+</node>
+<node id="Artemis">
+  <data key="d0">Artemis</data>
+  <data key="d1">person</data>
+  <data key="d2">Apollo's twin sister and goddess of hunting and the moon who was a skilled fighter and evaded Alpheus by covering her face in mud.</data>
+  <data key="d3">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-001</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788940637</data>
+  <data key="d6"></data>
+</node>
+<node id="Alpheus">
+  <data key="d0">Alpheus</data>
+  <data key="d1">person</data>
+  <data key="d2">River god who fell in love with Artemis and unsuccessfully pursued Artemis through a forest.</data>
+  <data key="d3">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-001</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788940637</data>
+  <data key="d6"></data>
+</node>
+<node id="Artemis's Nymphs">
+  <data key="d0">Artemis's Nymphs</data>
+  <data key="d1">creature</data>
+  <data key="d2">Female followers of Artemis who covered their faces in mud, preventing Alpheus from distinguishing Artemis from the followers.</data>
+  <data key="d3">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-001</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788940637</data>
+  <data key="d6"></data>
+</node>
+<node id="Hestia">
+  <data key="d0">Hestia</data>
+  <data key="d1">person</data>
+  <data key="d2">Oldest god of Olympus who refused marriage, became goddess of the home and family, supplied the gods' necessities, and surrendered a throne to Dionysus.</data>
+  <data key="d3">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-001</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788940637</data>
+  <data key="d6"></data>
+</node>
+<node id="Demeter">
+  <data key="d0">Demeter</data>
+  <data key="d1">person</data>
+  <data key="d2">Demeter appeared to Erysichthon in goddess form, sent away the slaves, and cursed Erysichthon with insatiable hunger.&lt;SEP&gt;Goddess of agriculture who punished Erysichthon with insatiable hunger for cutting down a dedicated oak tree.</data>
+  <data key="d3">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-001&lt;SEP&gt;doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-002</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788940637</data>
+  <data key="d6"></data>
+</node>
+<node id="Erysichthon">
+  <data key="d0">Erysichthon</data>
+  <data key="d1">person</data>
+  <data key="d2">Erysichthon continued an unspecified activity regardless and was punished by Demeter with a curse of hunger that could never be satisfied.&lt;SEP&gt;Arrogant, selfish, and greedy man who cut down Demeter's oak tree to make a banqueting table and received a curse of insatiable hunger.</data>
+  <data key="d3">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-001&lt;SEP&gt;doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-002</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788940637</data>
+  <data key="d6"></data>
+</node>
+<node id="Sparta">
+  <data key="d0">Sparta</data>
+  <data key="d1">location</data>
+  <data key="d2">Kingdom ruled by Helen's husband.</data>
+  <data key="d3">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-001</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788940637</data>
+  <data key="d6"></data>
+</node>
+<node id="Troy">
+  <data key="d0">Troy</data>
+  <data key="d1">location</data>
+  <data key="d2">Destination of Helen and Paris's flight and target of the war declared by the king of Sparta.</data>
+  <data key="d3">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-001</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788940637</data>
+  <data key="d6"></data>
+</node>
+<node id="Underworld">
+  <data key="d0">Underworld</data>
+  <data key="d1">location</data>
+  <data key="d2">World of the dead ruled by Hades, where Orpheus attempted to retrieve a deceased wife.</data>
+  <data key="d3">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-001</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788940637</data>
+  <data key="d6"></data>
+</node>
+<node id="Mount Olympus">
+  <data key="d0">Mount Olympus</data>
+  <data key="d1">location</data>
+  <data key="d2">Place of the gods where Hephaestus freed Hera, Hestia received responsibilities, and Dionysus demanded a throne.</data>
+  <data key="d3">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-001</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788940637</data>
+  <data key="d6"></data>
+</node>
+<node id="Thessaly">
+  <data key="d0">Thessaly</data>
+  <data key="d1">location</data>
+  <data key="d2">Region containing the huge oak tree dedicated to Demeter.</data>
+  <data key="d3">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-001</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788940637</data>
+  <data key="d6"></data>
+</node>
+<node id="Hades's Chariot">
+  <data key="d0">Hades's Chariot</data>
+  <data key="d1">artifact</data>
+  <data key="d2">Chariot belonging to Hades and drawn by four black horses.</data>
+  <data key="d3">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-001</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788940637</data>
+  <data key="d6"></data>
+</node>
+<node id="Four Black Horses">
+  <data key="d0">Four Black Horses</data>
+  <data key="d1">creature</data>
+  <data key="d2">Four horses that drew Hades's chariot.</data>
+  <data key="d3">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-001</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788940637</data>
+  <data key="d6"></data>
+</node>
+<node id="Golden Throne">
+  <data key="d0">Golden Throne</data>
+  <data key="d1">artifact</data>
+  <data key="d2">Throne created by Hephaestus as a revenge gift that trapped Hera with unbreakable chains.</data>
+  <data key="d3">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-001</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788940637</data>
+  <data key="d6"></data>
+</node>
+<node id="Unbreakable Chains">
+  <data key="d0">Unbreakable Chains</data>
+  <data key="d1">artifact</data>
+  <data key="d2">Chains that bound Hera after Hera sat on Hephaestus's golden throne.</data>
+  <data key="d3">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-001</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788940637</data>
+  <data key="d6"></data>
+</node>
+<node id="Key to Olympus">
+  <data key="d0">Key to Olympus</data>
+  <data key="d1">artifact</data>
+  <data key="d2">Key given by Zeus to Hestia as a token of appreciation after Hestia refused marriage.</data>
+  <data key="d3">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-001</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788940637</data>
+  <data key="d6"></data>
+</node>
+<node id="Demeter's Oak Tree">
+  <data key="d0">Demeter's Oak Tree</data>
+  <data key="d1">creature</data>
+  <data key="d2">Huge oak in Thessaly dedicated to Demeter, decorated by local people, used for vows, and cut down by Erysichthon.</data>
+  <data key="d3">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-001</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788940637</data>
+  <data key="d6"></data>
+</node>
+<node id="Curse of Insatiable Hunger">
+  <data key="d0">Curse of Insatiable Hunger</data>
+  <data key="d1">concept</data>
+  <data key="d2">The curse imposed by Demeter ensured that Erysichthon's hunger would never be satisfied.&lt;SEP&gt;Punishment imposed by Demeter that prevented Erysichthon's hunger from ever being satisfied.</data>
+  <data key="d3">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-001&lt;SEP&gt;doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-002</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788940637</data>
+  <data key="d6"></data>
+</node>
+<node id="Erysichthon's Slaves">
+  <data key="d0">Erysichthon's Slaves</data>
+  <data key="d1">organization</data>
+  <data key="d2">Group ordered to cut down Demeter's oak tree who refused the task and were later sent away by Demeter.</data>
+  <data key="d3">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-001</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788940637</data>
+  <data key="d6"></data>
+</node>
+<node id="Love">
+  <data key="d0">Love</data>
+  <data key="d1">concept</data>
+  <data key="d2">Domain associated with Aphrodite, who was identified as the goddess of love.</data>
+  <data key="d3">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-001</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788940637</data>
+  <data key="d6"></data>
+</node>
+<node id="Hunting">
+  <data key="d0">Hunting</data>
+  <data key="d1">method</data>
+  <data key="d2">Activity associated with Artemis, who hunted in forests and was identified as the goddess of hunting.</data>
+  <data key="d3">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-001</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788940637</data>
+  <data key="d6"></data>
+</node>
+<node id="Moon">
+  <data key="d0">Moon</data>
+  <data key="d1">naturalobject</data>
+  <data key="d2">Celestial object associated with Artemis's role as a goddess.</data>
+  <data key="d3">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-001</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788940637</data>
+  <data key="d6"></data>
+</node>
+<node id="Wine">
+  <data key="d0">Wine</data>
+  <data key="d1">naturalobject</data>
+  <data key="d2">Substance associated with Dionysus, who was identified as the god of wine.</data>
+  <data key="d3">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-001</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788940637</data>
+  <data key="d6"></data>
+</node>
+<node id="Agriculture">
+  <data key="d0">Agriculture</data>
+  <data key="d1">concept</data>
+  <data key="d2">Domain associated with Demeter, who was identified as the goddess of agriculture.</data>
+  <data key="d3">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-001</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788940637</data>
+  <data key="d6"></data>
+</node>
+<node id="Home and Family">
+  <data key="d0">Home and Family</data>
+  <data key="d1">concept</data>
+  <data key="d2">Domain assigned to Hestia by Zeus when Zeus made Hestia the goddess of the home and family.</data>
+  <data key="d3">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-001</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788940637</data>
+  <data key="d6"></data>
+</node>
+<node id="Bow and Arrow">
+  <data key="d0">Bow and Arrow</data>
+  <data key="d1">artifact</data>
+  <data key="d2">Hunting equipment used by Artemis in the forests.</data>
+  <data key="d3">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-001</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788940637</data>
+  <data key="d6"></data>
+</node>
+<node id="Banqueting Table">
+  <data key="d0">Banqueting Table</data>
+  <data key="d1">artifact</data>
+  <data key="d2">Intended product for which Erysichthon ordered the cutting of Demeter's oak tree.</data>
+  <data key="d3">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-001</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788940637</data>
+  <data key="d6"></data>
+</node>
+<node id="Hestia's Throne">
+  <data key="d0">Hestia's Throne</data>
+  <data key="d1">artifact</data>
+  <data key="d2">Throne that Hestia willingly surrendered to Dionysus after Dionysus arrived at Olympus demanding a throne.</data>
+  <data key="d3">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-001</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788940637</data>
+  <data key="d6"></data>
+</node>
+<node id="Slaves">
+  <data key="d0">Slaves</data>
+  <data key="d1">organization</data>
+  <data key="d2">The slaves were a group sent away by Demeter before Demeter punished Erysichthon.</data>
+  <data key="d3">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-002</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788940637</data>
+  <data key="d6"></data>
+</node>
+<edge source="Zeus" target="Hermes">
+  <data key="d7">1.0</data>
+  <data key="d8">Zeus was Hermes's father, and Zeus and Hermes travelled together disguised as ordinary men.</data>
+  <data key="d9">companionship,parentage</data>
+  <data key="d10">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1788940637</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Zeus" target="Zeus's Flood">
+  <data key="d7">1.0</data>
+  <data key="d8">Zeus caused the flood to punish people who refused Zeus and Hermes food and shelter.</data>
+  <data key="d9">causation,punishment</data>
+  <data key="d10">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1788940637</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Zeus" target="Philemon">
+  <data key="d7">1.0</data>
+  <data key="d8">Philemon offered Zeus food, wine, and overnight shelter.</data>
+  <data key="d9">hospitality</data>
+  <data key="d10">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1788940637</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Zeus" target="Baucis">
+  <data key="d7">1.0</data>
+  <data key="d8">Baucis offered Zeus food, wine, and overnight shelter.</data>
+  <data key="d9">hospitality</data>
+  <data key="d10">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1788940637</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Zeus" target="Baucis and Philemon's Hut">
+  <data key="d7">1.0</data>
+  <data key="d8">Zeus transformed Baucis and Philemon's hut into a temple to reward the couple's kindness.</data>
+  <data key="d9">reward,transformation</data>
+  <data key="d10">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1788940637</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Zeus" target="Athena">
+  <data key="d7">1.0</data>
+  <data key="d8">Athena was Zeus's daughter.</data>
+  <data key="d9">parentage</data>
+  <data key="d10">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1788940637</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Zeus" target="Ares">
+  <data key="d7">1.0</data>
+  <data key="d8">Zeus was Ares's father and bandaged Ares's wound, although Zeus was not proud of Ares's conduct.</data>
+  <data key="d9">care,parentage</data>
+  <data key="d10">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1788940637</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Zeus" target="Poseidon">
+  <data key="d7">1.0</data>
+  <data key="d8">Zeus and Poseidon were brothers.</data>
+  <data key="d9">siblings</data>
+  <data key="d10">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-001</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1788940637</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Zeus" target="Hades">
+  <data key="d7">1.0</data>
+  <data key="d8">Hades and Zeus were brothers.</data>
+  <data key="d9">siblings</data>
+  <data key="d10">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-001</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1788940637</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Zeus" target="Key to Olympus">
+  <data key="d7">1.0</data>
+  <data key="d8">Zeus gave the key to Olympus to Hestia as a token of appreciation.</data>
+  <data key="d9">gift</data>
+  <data key="d10">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-001</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1788940637</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Zeus" target="Hestia">
+  <data key="d7">1.0</data>
+  <data key="d8">Zeus rewarded Hestia's resolution of the marriage dispute by assigning care of the gods' necessities and making Hestia goddess of the home and family.</data>
+  <data key="d9">appointment,appreciation</data>
+  <data key="d10">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-001</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1788940637</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Zeus" target="Dionysus">
+  <data key="d7">1.0</data>
+  <data key="d8">Dionysus was described as Zeus's half-son.</data>
+  <data key="d9">parentage</data>
+  <data key="d10">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-001</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1788940638</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Hermes" target="Philemon">
+  <data key="d7">1.0</data>
+  <data key="d8">Philemon offered Hermes food, wine, and overnight shelter.</data>
+  <data key="d9">hospitality</data>
+  <data key="d10">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1788940637</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Hermes" target="Baucis">
+  <data key="d7">1.0</data>
+  <data key="d8">Baucis offered Hermes food, wine, and overnight shelter.</data>
+  <data key="d9">hospitality</data>
+  <data key="d10">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1788940637</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Hermes" target="Lyre">
+  <data key="d7">1.0</data>
+  <data key="d8">Hermes created the first lyre from a tortoise shell and strings and played music on the instrument.</data>
+  <data key="d9">invention,music</data>
+  <data key="d10">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1788940637</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Hermes" target="Apollo's Cattle">
+  <data key="d7">1.0</data>
+  <data key="d8">Hermes stole and hid Apollo's cattle, then received permission to keep the cattle in exchange for the lyre.</data>
+  <data key="d9">acquisition,theft</data>
+  <data key="d10">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1788940637</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Hermes" target="Winged Hat and Sandals">
+  <data key="d7">1.0</data>
+  <data key="d8">Hermes wore a winged hat and sandals that enabled rapid travel for delivering messages.</data>
+  <data key="d9">equipment,mobility</data>
+  <data key="d10">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1788940637</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Hermes" target="Apollo">
+  <data key="d7">1.0</data>
+  <data key="d8">Hermes enchanted Apollo with lyre music, leading Apollo to accept the instrument instead of recovering the stolen cattle.</data>
+  <data key="d9">exchange,reconciliation</data>
+  <data key="d10">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1788940637</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Baucis" target="Philemon">
+  <data key="d7">1.0</data>
+  <data key="d8">Baucis and Philemon were a devoted married couple whom Zeus agreed never to separate.</data>
+  <data key="d9">devotion,marriage</data>
+  <data key="d10">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1788940637</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Baucis" target="Temple">
+  <data key="d7">1.0</data>
+  <data key="d8">Baucis lived in the temple as a priestess.</data>
+  <data key="d9">religious service,residence</data>
+  <data key="d10">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1788940637</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Baucis" target="Oak and Linden Trees">
+  <data key="d7">1.0</data>
+  <data key="d8">Baucis and Philemon became oak and linden trees with entwined branches after death; the text does not assign a particular tree species to Baucis.</data>
+  <data key="d9">transformation</data>
+  <data key="d10">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1788940637</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Baucis" target="Baucis and Philemon's Hut">
+  <data key="d7">1.0</data>
+  <data key="d8">Baucis owned and lived in the hut with Philemon.</data>
+  <data key="d9">ownership,residence</data>
+  <data key="d10">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1788940637</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Baucis" target="Wine Jug">
+  <data key="d7">1.0</data>
+  <data key="d8">Baucis shared the couple's only jug of wine with the visitors and noticed that the jug had been refilled.</data>
+  <data key="d9">discovery,ownership</data>
+  <data key="d10">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1788940637</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Philemon" target="Temple">
+  <data key="d7">1.0</data>
+  <data key="d8">Philemon lived in the temple as a priest.</data>
+  <data key="d9">religious service,residence</data>
+  <data key="d10">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1788940637</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Philemon" target="Oak and Linden Trees">
+  <data key="d7">1.0</data>
+  <data key="d8">Philemon and Baucis became oak and linden trees with entwined branches after death; the text does not assign a particular tree species to Philemon.</data>
+  <data key="d9">transformation</data>
+  <data key="d10">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1788940637</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Philemon" target="Baucis and Philemon's Hut">
+  <data key="d7">1.0</data>
+  <data key="d8">Philemon owned and lived in the hut with Baucis.</data>
+  <data key="d9">ownership,residence</data>
+  <data key="d10">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1788940637</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Philemon" target="Wine Jug">
+  <data key="d7">1.0</data>
+  <data key="d8">Philemon and Baucis offered the visitors the couple's only jug of wine.</data>
+  <data key="d9">hospitality,ownership</data>
+  <data key="d10">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1788940637</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Baucis and Philemon's Hut" target="Zeus's Flood">
+  <data key="d7">1.0</data>
+  <data key="d8">Baucis and Philemon's hut was the only home in the valley not destroyed by Zeus's flood.</data>
+  <data key="d9">exception,survival</data>
+  <data key="d10">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1788940637</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Baucis and Philemon's Hut" target="Temple">
+  <data key="d7">1.0</data>
+  <data key="d8">Baucis and Philemon's hut became the temple where the couple spent the remainder of their lives.</data>
+  <data key="d9">transformation</data>
+  <data key="d10">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1788940637</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Athena" target="Poseidon">
+  <data key="d7">1.0</data>
+  <data key="d8">Athena and Poseidon competed to become the protector of the city later named Athens.</data>
+  <data key="d9">rivalry</data>
+  <data key="d10">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1788940637</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Athena" target="Athens">
+  <data key="d7">1.0</data>
+  <data key="d8">The citizens chose Athena as protector, named Athens after Athena, and became strong and prosperous with Athena's help.</data>
+  <data key="d9">namesake,protection</data>
+  <data key="d10">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1788940637</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Athena" target="Olive Tree">
+  <data key="d7">1.0</data>
+  <data key="d8">Athena caused an olive tree to grow by striking the ground with a spear and offered the tree to the citizens.</data>
+  <data key="d9">creation,gift</data>
+  <data key="d10">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1788940637</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Athena" target="Golden Apple">
+  <data key="d7">2.0</data>
+  <data key="d8">Eris left the golden apple where Athena would find the apple.&lt;SEP&gt;Athena claimed to be the fairest goddess and competed for the golden apple.</data>
+  <data key="d9">competition,intended discovery</data>
+  <data key="d10">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-000&lt;SEP&gt;doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-001</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1788940637</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Athena" target="Poseidon's River">
+  <data key="d7">1.0</data>
+  <data key="d8">Athena urged the citizens to taste the river water, exposing the unpleasant saltwater taste.</data>
+  <data key="d9">evaluation</data>
+  <data key="d10">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1788940637</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Athena" target="Paris">
+  <data key="d7">1.0</data>
+  <data key="d8">Athena offered to make Paris a courageous and successful soldier to influence Paris's judgment.</data>
+  <data key="d9">persuasion,promise</data>
+  <data key="d10">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-001</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1788940637</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Poseidon" target="Athens">
+  <data key="d7">1.0</data>
+  <data key="d8">Poseidon sought to protect Athens, but the citizens preferred Athena's gift and chose Athena.</data>
+  <data key="d9">patronage contest,rejection</data>
+  <data key="d10">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1788940637</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Poseidon" target="Poseidon's River">
+  <data key="d7">1.0</data>
+  <data key="d8">Poseidon created the river as a gift intended to impress the citizens.</data>
+  <data key="d9">creation,gift</data>
+  <data key="d10">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1788940637</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Poseidon" target="Poseidon's Flood">
+  <data key="d7">1.0</data>
+  <data key="d8">Poseidon caused a terrible flood after the citizens selected Athena as protector.</data>
+  <data key="d9">causation,retaliation</data>
+  <data key="d10">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1788940637</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Poseidon" target="Poseidon's Trident">
+  <data key="d7">1.0</data>
+  <data key="d8">Poseidon carried the trident and struck the ground with the trident to release water.</data>
+  <data key="d9">possession,use</data>
+  <data key="d10">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1788940637</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Poseidon" target="Hades">
+  <data key="d7">1.0</data>
+  <data key="d8">Hades and Poseidon were brothers.</data>
+  <data key="d9">siblings</data>
+  <data key="d10">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-001</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1788940637</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Poseidon" target="Hestia">
+  <data key="d7">1.0</data>
+  <data key="d8">Poseidon wished to marry Hestia, but Hestia declared that Hestia would never marry.</data>
+  <data key="d9">love,rejected marriage</data>
+  <data key="d10">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-001</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1788940637</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Athens" target="Olive Tree">
+  <data key="d7">1.0</data>
+  <data key="d8">The citizens of Athens preferred the useful olive tree to Poseidon's gift.</data>
+  <data key="d9">civic benefit,gift</data>
+  <data key="d10">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1788940637</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Athens" target="Poseidon's River">
+  <data key="d7">1.0</data>
+  <data key="d8">The citizens of Athens initially admired Poseidon's river but reconsidered after tasting the saltwater.</data>
+  <data key="d9">gift,rejection</data>
+  <data key="d10">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1788940637</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Athens" target="Greece">
+  <data key="d7">1.0</data>
+  <data key="d8">Athens is the capital city of Greece.</data>
+  <data key="d9">capital</data>
+  <data key="d10">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1788940637</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Poseidon's Trident" target="Poseidon's River">
+  <data key="d7">1.0</data>
+  <data key="d8">The strike of Poseidon's trident released water that became Poseidon's river.</data>
+  <data key="d9">creation instrument</data>
+  <data key="d10">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1788940637</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Olive Tree" target="Olive Wood">
+  <data key="d7">1.0</data>
+  <data key="d8">The olive tree provided wood suitable for building and heating.</data>
+  <data key="d9">resource provision</data>
+  <data key="d10">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1788940637</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Olive Tree" target="Olives">
+  <data key="d7">1.0</data>
+  <data key="d8">Edible olives grew on the olive tree.</data>
+  <data key="d9">food provision,growth</data>
+  <data key="d10">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1788940637</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Olives" target="Olive Oil">
+  <data key="d7">1.0</data>
+  <data key="d8">The olives provided oil that could be used for cooking.</data>
+  <data key="d9">cooking,source</data>
+  <data key="d10">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1788940637</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Apollo" target="Apollo's Cattle">
+  <data key="d7">1.0</data>
+  <data key="d8">Apollo originally owned the cattle and later exchanged the cattle for Hermes's lyre.</data>
+  <data key="d9">exchange,ownership</data>
+  <data key="d10">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1788940637</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Apollo" target="Lyre">
+  <data key="d7">1.0</data>
+  <data key="d8">Apollo accepted the lyre in exchange for the cattle and subsequently carried the instrument.</data>
+  <data key="d9">exchange,possession</data>
+  <data key="d10">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1788940637</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Apollo" target="Artemis">
+  <data key="d7">1.0</data>
+  <data key="d8">Artemis was Apollo's twin sister.</data>
+  <data key="d9">siblings,twins</data>
+  <data key="d10">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-001</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1788940637</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Apollo" target="Hestia">
+  <data key="d7">1.0</data>
+  <data key="d8">Apollo wished to marry Hestia, but Hestia declared that Hestia would never marry.</data>
+  <data key="d9">love,rejected marriage</data>
+  <data key="d10">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-001</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1788940637</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Lyre" target="Apollo's Cattle">
+  <data key="d7">1.0</data>
+  <data key="d8">The lyre was exchanged for permission for Hermes to keep Apollo's cattle.</data>
+  <data key="d9">barter</data>
+  <data key="d10">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1788940637</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Ares" target="Trojan War">
+  <data key="d7">1.0</data>
+  <data key="d8">Ares participated in the Trojan War and changed allegiance from a promised commitment to the Greeks to support for the Trojans.</data>
+  <data key="d9">participation</data>
+  <data key="d10">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1788940637</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Ares" target="Greeks">
+  <data key="d7">1.0</data>
+  <data key="d8">Ares promised to help the Greeks but did not honor the commitment.</data>
+  <data key="d9">disloyalty,promised support</data>
+  <data key="d10">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1788940637</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Ares" target="Trojans">
+  <data key="d7">1.0</data>
+  <data key="d8">Ares helped the Trojans after Aphrodite's persuasion.</data>
+  <data key="d9">military support</data>
+  <data key="d10">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1788940637</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Ares" target="Aphrodite">
+  <data key="d7">1.0</data>
+  <data key="d8">Ares was in love with Aphrodite, who persuaded Ares to support the Trojans.</data>
+  <data key="d9">love,persuasion</data>
+  <data key="d10">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1788940637</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Ares" target="Diomedes">
+  <data key="d7">1.0</data>
+  <data key="d8">Ares challenged Diomedes, and Diomedes wounded Ares.</data>
+  <data key="d9">combat,injury</data>
+  <data key="d10">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1788940637</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Trojan War" target="Trojans">
+  <data key="d7">1.0</data>
+  <data key="d8">The Trojans were a side in the Trojan War.</data>
+  <data key="d9">participation</data>
+  <data key="d10">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1788940637</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Trojan War" target="Greeks">
+  <data key="d7">1.0</data>
+  <data key="d8">The Greeks were a side in the Trojan War.</data>
+  <data key="d9">participation</data>
+  <data key="d10">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1788940637</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Trojan War" target="King of Sparta">
+  <data key="d7">1.0</data>
+  <data key="d8">The angry king of Sparta sent soldiers to declare war on Troy after Helen's departure, resulting in the Trojan War.</data>
+  <data key="d9">causation,declaration</data>
+  <data key="d10">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-001</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1788940637</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Trojan War" target="Troy">
+  <data key="d7">1.0</data>
+  <data key="d8">Troy was the target of the Trojan War, which lasted ten years.</data>
+  <data key="d9">warfare</data>
+  <data key="d10">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-001</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1788940637</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Trojan War" target="Aphrodite">
+  <data key="d7">1.0</data>
+  <data key="d8">Aphrodite unintentionally helped start the Trojan War through the events following Paris's judgment.</data>
+  <data key="d9">unintended causation</data>
+  <data key="d10">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-001</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1788940637</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Greeks" target="Diomedes">
+  <data key="d7">1.0</data>
+  <data key="d8">Diomedes was identified as a Greek mortal.</data>
+  <data key="d9">identity</data>
+  <data key="d10">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1788940637</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Trojans" target="Aphrodite">
+  <data key="d7">1.0</data>
+  <data key="d8">Aphrodite persuaded Ares to help the Trojans.</data>
+  <data key="d9">advocacy</data>
+  <data key="d10">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1788940637</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Aphrodite" target="Golden Apple">
+  <data key="d7">2.0</data>
+  <data key="d8">Eris left the golden apple where Aphrodite would find the apple.&lt;SEP&gt;Aphrodite competed for the golden apple and won Paris's judgment.</data>
+  <data key="d9">competition,intended discovery</data>
+  <data key="d10">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-000&lt;SEP&gt;doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-001</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1788940637</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Aphrodite" target="Paris">
+  <data key="d7">1.0</data>
+  <data key="d8">Paris selected Aphrodite as the fairest goddess after Aphrodite offered Paris the love of the world's most beautiful woman.</data>
+  <data key="d9">judgment,promise</data>
+  <data key="d10">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-001</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1788940637</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Aphrodite" target="Hephaestus">
+  <data key="d7">1.0</data>
+  <data key="d8">The gods gave Aphrodite to Hephaestus as a wife in return for freeing Hera.</data>
+  <data key="d9">marriage,reward</data>
+  <data key="d10">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-001</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1788940637</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Eris" target="Golden Apple">
+  <data key="d7">2.0</data>
+  <data key="d8">Eris made the golden apple and inscribed the words “For the fairest.”&lt;SEP&gt;Eris made the golden apple and inscribed “For the fairest” to provoke competition among goddesses.</data>
+  <data key="d9">creation,inscription,provocation</data>
+  <data key="d10">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-000&lt;SEP&gt;doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-001</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1788940637</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Golden Apple" target="Hera">
+  <data key="d7">2.0</data>
+  <data key="d8">Eris left the golden apple where Hera would find the apple.&lt;SEP&gt;Eris left the golden apple for Hera and two other goddesses; Hera believed Hera deserved the apple as the fairest.</data>
+  <data key="d9">competition,intended discovery</data>
+  <data key="d10">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-000&lt;SEP&gt;doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-001</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1788940637</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Hera" target="Paris">
+  <data key="d7">1.0</data>
+  <data key="d8">Hera promised to make Paris very powerful to influence Paris's judgment.</data>
+  <data key="d9">persuasion,promise</data>
+  <data key="d10">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-001</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1788940637</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Hera" target="Hephaestus">
+  <data key="d7">1.0</data>
+  <data key="d8">Hephaestus was Hera's son, trapped Hera in revenge for poor mothering, and later freed Hera.</data>
+  <data key="d9">parentage,release,revenge</data>
+  <data key="d10">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-001</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1788940637</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Hera" target="Unbreakable Chains">
+  <data key="d7">1.0</data>
+  <data key="d8">Unbreakable chains bound Hera after Hera sat on the golden throne.</data>
+  <data key="d9">restraint</data>
+  <data key="d10">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-001</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1788940637</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Hera" target="Golden Throne">
+  <data key="d7">1.0</data>
+  <data key="d8">Hera received the golden throne and became trapped after sitting on the throne.</data>
+  <data key="d9">entrapment,gift</data>
+  <data key="d10">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-001</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1788940637</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Tortoise Shell" target="Lyre Strings">
+  <data key="d7">1.0</data>
+  <data key="d8">Hermes tied the lyre strings across the tortoise shell to create the first lyre.</data>
+  <data key="d9">attachment,construction</data>
+  <data key="d10">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1788940637</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Paris" target="Helen">
+  <data key="d7">1.0</data>
+  <data key="d8">Paris and Helen ran away together to Troy.</data>
+  <data key="d9">elopement</data>
+  <data key="d10">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-001</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1788940637</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Paris" target="Troy">
+  <data key="d7">1.0</data>
+  <data key="d8">Paris fled to Troy with Helen.</data>
+  <data key="d9">destination</data>
+  <data key="d10">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-001</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1788940637</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Helen" target="King of Sparta">
+  <data key="d7">1.0</data>
+  <data key="d8">Helen was married to the king of Sparta when Helen ran away with Paris.</data>
+  <data key="d9">marriage</data>
+  <data key="d10">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-001</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1788940637</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Helen" target="Troy">
+  <data key="d7">1.0</data>
+  <data key="d8">Helen fled to Troy with Paris.</data>
+  <data key="d9">destination</data>
+  <data key="d10">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-001</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1788940637</data>
+  <data key="d13"></data>
+</edge>
+<edge source="King of Sparta" target="Sparta">
+  <data key="d7">1.0</data>
+  <data key="d8">Helen's husband ruled Sparta.</data>
+  <data key="d9">rulership</data>
+  <data key="d10">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-001</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1788940637</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Hades" target="Underworld">
+  <data key="d7">1.0</data>
+  <data key="d8">Hades ruled the Underworld and was responsible for keeping the dead there for all time.</data>
+  <data key="d9">confinement,rulership</data>
+  <data key="d10">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-001</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1788940637</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Hades" target="Orpheus">
+  <data key="d7">1.0</data>
+  <data key="d8">Orpheus's singing enchanted Hades into permitting the return of Orpheus's wife, provided Orpheus did not look at the wife while leaving.</data>
+  <data key="d9">conditional permission,singing</data>
+  <data key="d10">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-001</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1788940637</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Hades" target="Hades's Chariot">
+  <data key="d7">1.0</data>
+  <data key="d8">Hades owned a chariot drawn by four black horses.</data>
+  <data key="d9">ownership</data>
+  <data key="d10">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-001</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1788940637</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Orpheus" target="Orpheus's Wife">
+  <data key="d7">1.0</data>
+  <data key="d8">Orpheus attempted to recover a deceased wife but looked back during departure, preventing the wife's release.</data>
+  <data key="d9">attempted rescue,marriage</data>
+  <data key="d10">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-001</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1788940637</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Orpheus" target="Underworld">
+  <data key="d7">1.0</data>
+  <data key="d8">Orpheus entered the Underworld to retrieve a deceased wife and unusually returned from the Underworld.</data>
+  <data key="d9">journey,return</data>
+  <data key="d10">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-001</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1788940637</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Orpheus's Wife" target="Underworld">
+  <data key="d7">1.0</data>
+  <data key="d8">Orpheus's wife had to stay in the Underworld forever after Orpheus violated Hades's condition.</data>
+  <data key="d9">permanent confinement</data>
+  <data key="d10">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-001</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1788940637</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Hephaestus" target="Golden Throne">
+  <data key="d7">1.0</data>
+  <data key="d8">Hephaestus created the golden throne as a revenge gift for Hera.</data>
+  <data key="d9">creation,revenge</data>
+  <data key="d10">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-001</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1788940637</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Hephaestus" target="Dionysus">
+  <data key="d7">1.0</data>
+  <data key="d8">The gods asked Dionysus to intoxicate Hephaestus so Hephaestus could be brought to free Hera.</data>
+  <data key="d9">intervention,intoxication</data>
+  <data key="d10">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-001</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1788940637</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Hephaestus" target="Mount Olympus">
+  <data key="d7">1.0</data>
+  <data key="d8">After drinking heavily, Hephaestus was led to Mount Olympus to free Hera.</data>
+  <data key="d9">arrival,rescue</data>
+  <data key="d10">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-001</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1788940637</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Dionysus" target="Hestia">
+  <data key="d7">1.0</data>
+  <data key="d8">Hestia willingly gave up a throne for Dionysus to preserve a quiet and peaceful life.</data>
+  <data key="d9">throne transfer</data>
+  <data key="d10">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-001</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1788940637</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Dionysus" target="Mount Olympus">
+  <data key="d7">1.0</data>
+  <data key="d8">Dionysus went to Olympus demanding a throne.</data>
+  <data key="d9">arrival,throne demand</data>
+  <data key="d10">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-001</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1788940638</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Artemis" target="Alpheus">
+  <data key="d7">1.0</data>
+  <data key="d8">Alpheus fell in love with Artemis and pursued Artemis, but Artemis evaded recognition by covering her face in mud.</data>
+  <data key="d9">evasion,love,pursuit</data>
+  <data key="d10">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-001</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1788940637</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Artemis" target="Artemis's Nymphs">
+  <data key="d7">1.0</data>
+  <data key="d8">Artemis's female followers joined Artemis in covering their faces with mud.</data>
+  <data key="d9">disguise,followers</data>
+  <data key="d10">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-001</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1788940637</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Alpheus" target="Artemis's Nymphs">
+  <data key="d7">1.0</data>
+  <data key="d8">Alpheus could not distinguish Artemis from Artemis's mud-covered nymphs and abandoned the search.</data>
+  <data key="d9">failed recognition</data>
+  <data key="d10">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-001</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1788940637</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Hestia" target="Key to Olympus">
+  <data key="d7">1.0</data>
+  <data key="d8">Hestia received a key to Olympus from Zeus.</data>
+  <data key="d9">receipt</data>
+  <data key="d10">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-001</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1788940637</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Hestia" target="Mount Olympus">
+  <data key="d7">1.0</data>
+  <data key="d8">Hestia was the oldest of the gods of Olympus.</data>
+  <data key="d9">membership,seniority</data>
+  <data key="d10">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-001</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1788940638</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Demeter" target="Demeter's Oak Tree">
+  <data key="d7">1.0</data>
+  <data key="d8">The oak tree was dedicated to Demeter and used by local people as a place to make vows to Demeter.</data>
+  <data key="d9">dedication,worship</data>
+  <data key="d10">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-001</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1788940637</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Demeter" target="Erysichthon">
+  <data key="d7">2.0</data>
+  <data key="d8">Demeter appeared to Erysichthon in goddess form and punished Erysichthon with a curse.&lt;SEP&gt;Demeter appeared first as a priest to warn Erysichthon, then in goddess form to punish Erysichthon for continuing to cut the oak.</data>
+  <data key="d9">appearance,punishment,warning</data>
+  <data key="d10">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-001&lt;SEP&gt;doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-002</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1788940637</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Demeter" target="Curse of Insatiable Hunger">
+  <data key="d7">2.0</data>
+  <data key="d8">Demeter imposed the curse of insatiable hunger as punishment for Erysichthon.&lt;SEP&gt;Demeter imposed the curse of insatiable hunger as punishment for cutting down the dedicated oak.</data>
+  <data key="d9">imposition,punishment</data>
+  <data key="d10">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-001&lt;SEP&gt;doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-002</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1788940638</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Demeter" target="Erysichthon's Slaves">
+  <data key="d7">1.0</data>
+  <data key="d8">Demeter sent Erysichthon's slaves away before punishing Erysichthon.</data>
+  <data key="d9">dismissal</data>
+  <data key="d10">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-001</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1788940638</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Demeter" target="Slaves">
+  <data key="d7">1.0</data>
+  <data key="d8">Demeter sent away the slaves before punishing Erysichthon.</data>
+  <data key="d9">dismissal</data>
+  <data key="d10">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-002</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1788940638</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Erysichthon" target="Demeter's Oak Tree">
+  <data key="d7">1.0</data>
+  <data key="d8">Erysichthon cut down Demeter's oak tree to make a banqueting table after the slaves refused.</data>
+  <data key="d9">destruction</data>
+  <data key="d10">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-001</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1788940638</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Erysichthon" target="Erysichthon's Slaves">
+  <data key="d7">1.0</data>
+  <data key="d8">Erysichthon ordered the slaves to cut down Demeter's oak tree.</data>
+  <data key="d9">command,enslavement</data>
+  <data key="d10">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-001</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1788940638</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Erysichthon" target="Curse of Insatiable Hunger">
+  <data key="d7">2.0</data>
+  <data key="d8">Erysichthon was afflicted with a curse that prevented Erysichthon's hunger from ever being satisfied.&lt;SEP&gt;The curse ensured that Erysichthon's hunger would never be satisfied.</data>
+  <data key="d9">affliction,perpetual hunger</data>
+  <data key="d10">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-001&lt;SEP&gt;doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-002</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1788940638</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Mount Olympus" target="Key to Olympus">
+  <data key="d7">1.0</data>
+  <data key="d8">The key given to Hestia was identified as a key to Olympus.</data>
+  <data key="d9">association</data>
+  <data key="d10">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-001</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1788940637</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Thessaly" target="Demeter's Oak Tree">
+  <data key="d7">1.0</data>
+  <data key="d8">Demeter's huge oak tree stood in Thessaly.</data>
+  <data key="d9">location</data>
+  <data key="d10">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-001</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1788940637</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Hades's Chariot" target="Four Black Horses">
+  <data key="d7">1.0</data>
+  <data key="d8">Four black horses drew Hades's chariot.</data>
+  <data key="d9">transportation</data>
+  <data key="d10">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-001</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1788940637</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Golden Throne" target="Unbreakable Chains">
+  <data key="d7">1.0</data>
+  <data key="d8">The golden throne trapped Hera using unbreakable chains.</data>
+  <data key="d9">trap mechanism</data>
+  <data key="d10">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-001</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1788940637</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Demeter's Oak Tree" target="Erysichthon's Slaves">
+  <data key="d7">1.0</data>
+  <data key="d8">Erysichthon's slaves refused to cut down the oak tree dedicated to Demeter.</data>
+  <data key="d9">refusal</data>
+  <data key="d10">doc-52c8afbec9e3e7f946a74539d5a1c008-chunk-001</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1788940638</data>
+  <data key="d13"></data>
+</edge>
+</graph></graphml>

@@ -1,0 +1,21 @@
+{
+  "doc-52c8afbec9e3e7f946a74539d5a1c008": {
+    "status": "processed",
+    "chunks_count": 3,
+    "chunks_list": [
+      "chunk-e366b53112093d3f47b401e239355224",
+      "chunk-8cad548f01b39e6cced83ad5d63b49e0",
+      "chunk-0f21f77044f0743885ff9662ab720148"
+    ],
+    "content_summary": "Greek Gods Stories\nA Story About Zeus\nZeus was the god of the sky and ruler of the gods. \nHe was once travelling with his son, Hermes. Both men were disguised \nas ordinary men. On their travels, they stopped at many different \nhouses asking for shelt...",
+    "content_length": 9437,
+    "created_at": "2025-10-16T10:32:52.738538+00:00",
+    "updated_at": "2025-10-16T10:33:37.386556+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251016_103252_cde96e96",
+    "metadata": {
+      "processing_start_time": 1760610772,
+      "processing_end_time": 1760610817
+    }
+  }
+}

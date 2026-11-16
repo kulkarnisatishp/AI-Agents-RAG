@@ -1,0 +1,430 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d11" for="edge" attr.name="created_at" attr.type="long"/>
+<key id="d10" for="edge" attr.name="file_path" attr.type="string"/>
+<key id="d9" for="edge" attr.name="source_id" attr.type="string"/>
+<key id="d8" for="edge" attr.name="keywords" attr.type="string"/>
+<key id="d7" for="edge" attr.name="description" attr.type="string"/>
+<key id="d6" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d5" for="node" attr.name="created_at" attr.type="long"/>
+<key id="d4" for="node" attr.name="file_path" attr.type="string"/>
+<key id="d3" for="node" attr.name="source_id" attr.type="string"/>
+<key id="d2" for="node" attr.name="description" attr.type="string"/>
+<key id="d1" for="node" attr.name="entity_type" attr.type="string"/>
+<key id="d0" for="node" attr.name="entity_id" attr.type="string"/>
+<graph edgedefault="undirected"><node id="Erysichthon">
+  <data key="d0">Erysichthon</data>
+  <data key="d1">person</data>
+  <data key="d2">Erysichthon is a character who faced punishment from the goddess Demeter for his insatiable hunger.&lt;SEP&gt;Erysichthon is depicted as arrogant and greedy, responsible for the destruction of a sacred tree dedicated to Demeter.</data>
+  <data key="d3">chunk-0f21f77044f0743885ff9662ab720148&lt;SEP&gt;chunk-8cad548f01b39e6cced83ad5d63b49e0</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1760610811</data>
+</node>
+<node id="Demeter">
+  <data key="d0">Demeter</data>
+  <data key="d1">person</data>
+  <data key="d2">Demeter is the goddess who punishes Erysichthon with a curse for his actions.&lt;SEP&gt;Demeter is the goddess of agriculture, connected to a sacred oak tree and associated with Erysichthon's punishment.</data>
+  <data key="d3">chunk-0f21f77044f0743885ff9662ab720148&lt;SEP&gt;chunk-8cad548f01b39e6cced83ad5d63b49e0</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1760610811</data>
+</node>
+<node id="The Curse">
+  <data key="d0">The Curse</data>
+  <data key="d1">concept</data>
+  <data key="d2">The curse placed on Erysichthon is that his hunger would never be satisfied, leading to his perpetual suffering.</data>
+  <data key="d3">chunk-0f21f77044f0743885ff9662ab720148</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1760610811</data>
+</node>
+<node id="Slaves">
+  <data key="d0">Slaves</data>
+  <data key="d1">other</data>
+  <data key="d2">Slaves are the individuals that Demeter sends away before punishing Erysichthon.</data>
+  <data key="d3">chunk-0f21f77044f0743885ff9662ab720148</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1760610811</data>
+</node>
+<node id="Zeus">
+  <data key="d0">Zeus</data>
+  <data key="d1">person</data>
+  <data key="d2">Zeus is the god of the sky and ruler of the gods, known for traveling with his son, Hermes, and meting out justice to those who refused him hospitality.</data>
+  <data key="d3">chunk-e366b53112093d3f47b401e239355224</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1760610811</data>
+</node>
+<node id="Hermes">
+  <data key="d0">Hermes</data>
+  <data key="d1">person</data>
+  <data key="d2">Hermes is the son of Zeus, known for his cleverness and mischievous nature, who created the lyre and served as a messenger between gods and mortals.</data>
+  <data key="d3">chunk-e366b53112093d3f47b401e239355224</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1760610811</data>
+</node>
+<node id="Baucis">
+  <data key="d0">Baucis</data>
+  <data key="d1">person</data>
+  <data key="d2">Baucis is a poor, elderly woman who, along with her husband Philemon, shown kindness to Zeus and Hermes by offering them food and shelter.</data>
+  <data key="d3">chunk-e366b53112093d3f47b401e239355224</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1760610811</data>
+</node>
+<node id="Philemon">
+  <data key="d0">Philemon</data>
+  <data key="d1">person</data>
+  <data key="d2">Philemon is the husband of Baucis, who together with her, showed hospitality to Zeus and Hermes.</data>
+  <data key="d3">chunk-e366b53112093d3f47b401e239355224</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1760610811</data>
+</node>
+<node id="Athena">
+  <data key="d0">Athena</data>
+  <data key="d1">person</data>
+  <data key="d2">Athena is a goddess who offered to turn Paris into a courageous soldier in the contest for the golden apple.&lt;SEP&gt;Athena is the daughter of Zeus, characterized as strong and wise, known for offering the olive tree as a gift to the citizens of a new city.</data>
+  <data key="d3">chunk-8cad548f01b39e6cced83ad5d63b49e0&lt;SEP&gt;chunk-e366b53112093d3f47b401e239355224</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1760610812</data>
+</node>
+<node id="Poseidon">
+  <data key="d0">Poseidon</data>
+  <data key="d1">person</data>
+  <data key="d2">Poseidon is the god of the seas and a rival of Athena, known for providing a river as a gift to a new city.</data>
+  <data key="d3">chunk-e366b53112093d3f47b401e239355224</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1760610812</data>
+</node>
+<node id="Aphrodite">
+  <data key="d0">Aphrodite</data>
+  <data key="d1">person</data>
+  <data key="d2">Aphrodite is the goddess of love, known for her beauty and involvement in starting a war inadvertently.&lt;SEP&gt;Aphrodite is the goddess of love, associated with beauty and the origin of a war due to a golden apple.</data>
+  <data key="d3">chunk-8cad548f01b39e6cced83ad5d63b49e0&lt;SEP&gt;chunk-e366b53112093d3f47b401e239355224</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1760610812</data>
+</node>
+<node id="Ares">
+  <data key="d0">Ares</data>
+  <data key="d1">person</data>
+  <data key="d2">Ares is the god of war, known for his lack of loyalty in battle and a relationship with Aphrodite, influencing his actions during the Trojan War.</data>
+  <data key="d3">chunk-e366b53112093d3f47b401e239355224</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1760610812</data>
+</node>
+<node id="Apollo">
+  <data key="d0">Apollo</data>
+  <data key="d1">person</data>
+  <data key="d2">Apollo is the twin brother of Artemis and one of the major gods of Olympus.&lt;SEP&gt;Apollo is one of the gods whose cattle was stolen by Hermes; he is enchanted by Hermes' music played on the lyre.</data>
+  <data key="d3">chunk-8cad548f01b39e6cced83ad5d63b49e0&lt;SEP&gt;chunk-e366b53112093d3f47b401e239355224</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1760610812</data>
+</node>
+<node id="The City of Athens">
+  <data key="d0">The City of Athens</data>
+  <data key="d1">location</data>
+  <data key="d2">The City of Athens is a city named after Athena, chosen by the citizens for protection due to her gift of the olive tree.</data>
+  <data key="d3">chunk-e366b53112093d3f47b401e239355224</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1760610812</data>
+</node>
+<node id="Golden Apple">
+  <data key="d0">Golden Apple</data>
+  <data key="d1">artifact</data>
+  <data key="d2">The Golden Apple is a significant object in the story, inscribed with 'For the fairest,' leading to conflict among the goddesses Hera, Aphrodite, and Athena.</data>
+  <data key="d3">chunk-e366b53112093d3f47b401e239355224</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1760610812</data>
+</node>
+<node id="Eris">
+  <data key="d0">Eris</data>
+  <data key="d1">person</data>
+  <data key="d2">Eris is the goddess who enjoys being a troublemaker and created a golden apple that instigated a conflict among goddesses.&lt;SEP&gt;Eris is the goddess of discord, known for causing conflict among goddesses by creating the Golden Apple.</data>
+  <data key="d3">chunk-8cad548f01b39e6cced83ad5d63b49e0&lt;SEP&gt;chunk-e366b53112093d3f47b401e239355224</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1760610812</data>
+</node>
+<node id="Hera">
+  <data key="d0">Hera</data>
+  <data key="d1">person</data>
+  <data key="d2">Hera is a goddess who believed she was the fairest and participated in the contest for the golden apple.</data>
+  <data key="d3">chunk-8cad548f01b39e6cced83ad5d63b49e0</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1760610813</data>
+</node>
+<node id="Paris">
+  <data key="d0">Paris</data>
+  <data key="d1">person</data>
+  <data key="d2">Paris is a mortal chosen to decide who should own the golden apple among the goddesses.</data>
+  <data key="d3">chunk-8cad548f01b39e6cced83ad5d63b49e0</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1760610813</data>
+</node>
+<node id="Helen">
+  <data key="d0">Helen</data>
+  <data key="d1">person</data>
+  <data key="d2">Helen is described as the most beautiful woman in the world, married to the king of Sparta and central to the Trojan War.</data>
+  <data key="d3">chunk-8cad548f01b39e6cced83ad5d63b49e0</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1760610813</data>
+</node>
+<node id="Trojan War">
+  <data key="d0">Trojan War</data>
+  <data key="d1">event</data>
+  <data key="d2">The Trojan War is a significant conflict lasting ten years that began due to Helen's elopement with Paris.</data>
+  <data key="d3">chunk-8cad548f01b39e6cced83ad5d63b49e0</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1760610813</data>
+</node>
+<node id="Hades">
+  <data key="d0">Hades</data>
+  <data key="d1">person</data>
+  <data key="d2">Hades is the god who rules the Underworld and is responsible for ensuring the dead remain there permanently.</data>
+  <data key="d3">chunk-8cad548f01b39e6cced83ad5d63b49e0</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1760610813</data>
+</node>
+<node id="Orpheus">
+  <data key="d0">Orpheus</data>
+  <data key="d1">person</data>
+  <data key="d2">Orpheus is a singer who traveled to the Underworld to retrieve his deceased wife and enchanted Hades with his singing.</data>
+  <data key="d3">chunk-8cad548f01b39e6cced83ad5d63b49e0</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1760610813</data>
+</node>
+<node id="Hephaestus">
+  <data key="d0">Hephaestus</data>
+  <data key="d1">person</data>
+  <data key="d2">Hephaestus is the son of Hera known for creating a golden throne as revenge on his mother.</data>
+  <data key="d3">chunk-8cad548f01b39e6cced83ad5d63b49e0</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1760610813</data>
+</node>
+<node id="Dionysus">
+  <data key="d0">Dionysus</data>
+  <data key="d1">person</data>
+  <data key="d2">Dionysus is the god of wine who was asked by the gods to intoxicate Hephaestus to free Hera.</data>
+  <data key="d3">chunk-8cad548f01b39e6cced83ad5d63b49e0</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1760610813</data>
+</node>
+<node id="Artemis">
+  <data key="d0">Artemis</data>
+  <data key="d1">person</data>
+  <data key="d2">Artemis is the goddess of hunting and the moon, depicted as a skilled fighter and hunter.</data>
+  <data key="d3">chunk-8cad548f01b39e6cced83ad5d63b49e0</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1760610813</data>
+</node>
+<node id="Hestia">
+  <data key="d0">Hestia</data>
+  <data key="d1">person</data>
+  <data key="d2">Hestia is the oldest goddess of Olympus, tasked with overseeing the gods' needs and often associated with the home.</data>
+  <data key="d3">chunk-8cad548f01b39e6cced83ad5d63b49e0</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1760610813</data>
+</node>
+<node id="Alpheus">
+  <data key="d0">Alpheus</data>
+  <data key="d1">person</data>
+  <data key="d2">Alpheus is the river god who fell in love with Artemis and pursued her through the forest.</data>
+  <data key="d3">chunk-8cad548f01b39e6cced83ad5d63b49e0</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1760610813</data>
+</node>
+<node id="Mount Olympus">
+  <data key="d0">Mount Olympus</data>
+  <data key="d1">location</data>
+  <data key="d2">Mount Olympus is the dwelling place of the gods, including Hera and Hephaestus, where significant events take place.</data>
+  <data key="d3">chunk-8cad548f01b39e6cced83ad5d63b49e0</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1760610813</data>
+</node>
+<node id="Underworld">
+  <data key="d0">Underworld</data>
+  <data key="d3">chunk-8cad548f01b39e6cced83ad5d63b49e0</data>
+  <data key="d2">Hades rules the Underworld, the realm of the dead.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1760610816</data>
+</node>
+<edge source="Erysichthon" target="Demeter">
+  <data key="d6">2.0</data>
+  <data key="d7">Demeter punishes Erysichthon by cursing him as a consequence of his actions.&lt;SEP&gt;Demeter punished Erysichthon for cutting down the sacred oak tree by cursing him with unending hunger.</data>
+  <data key="d8">destruction,divine intervention,punishment</data>
+  <data key="d9">chunk-0f21f77044f0743885ff9662ab720148&lt;SEP&gt;chunk-8cad548f01b39e6cced83ad5d63b49e0</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1760610814</data>
+</edge>
+<edge source="Erysichthon" target="The Curse">
+  <data key="d6">1.0</data>
+  <data key="d7">Erysichthon is afflicted by the curse that results in his eternal hunger not being satisfied.</data>
+  <data key="d8">insatiable hunger,suffering</data>
+  <data key="d9">chunk-0f21f77044f0743885ff9662ab720148</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1760610815</data>
+</edge>
+<edge source="Demeter" target="Slaves">
+  <data key="d6">1.0</data>
+  <data key="d7">Demeter sends away the slaves as part of her intervention with Erysichthon.</data>
+  <data key="d8">action,divine command</data>
+  <data key="d9">chunk-0f21f77044f0743885ff9662ab720148</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1760610815</data>
+</edge>
+<edge source="Zeus" target="Hermes">
+  <data key="d6">1.0</data>
+  <data key="d7">Zeus is the father of Hermes, and they travel together while disguised as ordinary men.</data>
+  <data key="d8">divine partnership,father-son relationship</data>
+  <data key="d9">chunk-e366b53112093d3f47b401e239355224</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1760610814</data>
+</edge>
+<edge source="Zeus" target="Baucis">
+  <data key="d6">1.0</data>
+  <data key="d7">Zeus rewarded Baucis and Philemon's kindness by transforming their hut into a temple and ensuring they would never be parted.</data>
+  <data key="d8">divine favor,rewarding kindness</data>
+  <data key="d9">chunk-e366b53112093d3f47b401e239355224</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1760610815</data>
+</edge>
+<edge source="Zeus" target="Hestia">
+  <data key="d6">1.0</data>
+  <data key="d7">Hestia resolved the dispute between Apollo and Poseidon over her hand by refusing to marry.</data>
+  <data key="d8">marriage refusal,resolution</data>
+  <data key="d9">chunk-8cad548f01b39e6cced83ad5d63b49e0</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1760610816</data>
+</edge>
+<edge source="Hermes" target="Apollo">
+  <data key="d6">1.0</data>
+  <data key="d7">Hermes stole Apollo's cattle, leading to a confrontation resolved when Apollo was enchanted by Hermes' music.</data>
+  <data key="d8">divine resolution,theft</data>
+  <data key="d9">chunk-e366b53112093d3f47b401e239355224</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1760610815</data>
+</edge>
+<edge source="Baucis" target="Philemon">
+  <data key="d6">1.0</data>
+  <data key="d7">Baucis and Philemon are a devoted elderly couple who support each other and show hospitality to Zeus and Hermes.</data>
+  <data key="d8">marriage,mutual support</data>
+  <data key="d9">chunk-e366b53112093d3f47b401e239355224</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1760610814</data>
+</edge>
+<edge source="Athena" target="Poseidon">
+  <data key="d6">1.0</data>
+  <data key="d7">Athena and Poseidon are rivals competing for the role of protector of the city being founded.</data>
+  <data key="d8">competition,rivalry</data>
+  <data key="d9">chunk-e366b53112093d3f47b401e239355224</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1760610814</data>
+</edge>
+<edge source="Athena" target="The City of Athens">
+  <data key="d6">1.0</data>
+  <data key="d7">Athena provided the olive tree as a gift, leading to her selection as the city's protector.</data>
+  <data key="d8">gift giving,municipal protection</data>
+  <data key="d9">chunk-e366b53112093d3f47b401e239355224</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1760610815</data>
+</edge>
+<edge source="Athena" target="Ares">
+  <data key="d6">1.0</data>
+  <data key="d7">Ares showed disloyalty in battle during the Trojan War, influenced by his love for Aphrodite against his mother's wishes.</data>
+  <data key="d8">battle rivalry,loyalty conflict</data>
+  <data key="d9">chunk-e366b53112093d3f47b401e239355224</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1760610816</data>
+</edge>
+<edge source="Poseidon" target="The City of Athens">
+  <data key="d6">1.0</data>
+  <data key="d7">Poseidon attempted to impress the citizens of Athens by providing a river using his trident.</data>
+  <data key="d8">gift giving,municipal protection</data>
+  <data key="d9">chunk-e366b53112093d3f47b401e239355224</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1760610815</data>
+</edge>
+<edge source="Aphrodite" target="Eris">
+  <data key="d6">2.0</data>
+  <data key="d7">Eris instigated a conflict among the goddesses by creating the golden apple that led to the competition for beauty.&lt;SEP&gt;Aphrodite's involvement in the conflict originated from the actions of the troublemaker goddess Eris, who created the Golden Apple.</data>
+  <data key="d8">competition,conflict initiation,conflict instigation,trouble making</data>
+  <data key="d9">chunk-8cad548f01b39e6cced83ad5d63b49e0&lt;SEP&gt;chunk-e366b53112093d3f47b401e239355224</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1760610815</data>
+</edge>
+<edge source="Aphrodite" target="Ares">
+  <data key="d6">1.0</data>
+  <data key="d7">Aphrodite’s relationship with Ares influenced his decisions and loyalties during the Trojan War.</data>
+  <data key="d8">loyalty conflict,romantic involvement</data>
+  <data key="d9">chunk-e366b53112093d3f47b401e239355224</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1760610816</data>
+</edge>
+<edge source="Aphrodite" target="Paris">
+  <data key="d6">1.0</data>
+  <data key="d7">Aphrodite offered Paris the love of the most beautiful woman, leading to his selection of her as the fairest goddess.</data>
+  <data key="d8">choice,favor</data>
+  <data key="d9">chunk-8cad548f01b39e6cced83ad5d63b49e0</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1760610816</data>
+</edge>
+<edge source="Aphrodite" target="Hephaestus">
+  <data key="d6">1.0</data>
+  <data key="d7">Hephaestus was given Aphrodite as a wife in return for freeing Hera.</data>
+  <data key="d8">divine union,marriage</data>
+  <data key="d9">chunk-8cad548f01b39e6cced83ad5d63b49e0</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1760610817</data>
+</edge>
+<edge source="Golden Apple" target="Eris">
+  <data key="d6">1.0</data>
+  <data key="d7">Eris created the Golden Apple to instigate conflict among the goddesses Hera, Aphrodite, and Athena.</data>
+  <data key="d8">conflict initiation,trouble making</data>
+  <data key="d9">chunk-e366b53112093d3f47b401e239355224</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1760610815</data>
+</edge>
+<edge source="Hera" target="Hephaestus">
+  <data key="d6">1.0</data>
+  <data key="d7">Hephaestus took revenge on Hera by creating a throne that captured her until he freed her.</data>
+  <data key="d8">captivity,revenge</data>
+  <data key="d9">chunk-8cad548f01b39e6cced83ad5d63b49e0</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1760610815</data>
+</edge>
+<edge source="Paris" target="Helen">
+  <data key="d6">1.0</data>
+  <data key="d7">Paris eloped with Helen, resulting in the outbreak of the Trojan War.</data>
+  <data key="d8">causation,elopement</data>
+  <data key="d9">chunk-8cad548f01b39e6cced83ad5d63b49e0</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1760610815</data>
+</edge>
+<edge source="Hades" target="Orpheus">
+  <data key="d6">1.0</data>
+  <data key="d7">Orpheus traveled to the Underworld to retrieve his wife, captivating Hades with his singing.</data>
+  <data key="d8">dead,retrieval attempt</data>
+  <data key="d9">chunk-8cad548f01b39e6cced83ad5d63b49e0</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1760610815</data>
+</edge>
+<edge source="Hades" target="Underworld">
+  <data key="d6">1.0</data>
+  <data key="d7">Hades rules the Underworld, the realm of the dead.</data>
+  <data key="d8">domain,rule</data>
+  <data key="d9">chunk-8cad548f01b39e6cced83ad5d63b49e0</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1760610816</data>
+</edge>
+<edge source="Hephaestus" target="Dionysus">
+  <data key="d6">1.0</data>
+  <data key="d7">Dionysus was tasked with intoxicating Hephaestus to persuade him to free Hera.</data>
+  <data key="d8">intoxication,rescue</data>
+  <data key="d9">chunk-8cad548f01b39e6cced83ad5d63b49e0</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1760610816</data>
+</edge>
+<edge source="Artemis" target="Alpheus">
+  <data key="d6">1.0</data>
+  <data key="d7">Alpheus pursued Artemis through the forest out of love, but she eluded him.</data>
+  <data key="d8">love,pursuit</data>
+  <data key="d9">chunk-8cad548f01b39e6cced83ad5d63b49e0</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1760610815</data>
+</edge>
+</graph></graphml>
